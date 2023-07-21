@@ -10,4 +10,4 @@ A simple template for WSL
 
 ## Usage
 
-do `home-manager switch` to launch into development environment
+do `home-manager switch --flake .` to launch into development environment
